@@ -1,1 +1,0 @@
-﻿# Pester wants a file called Pester.Tests.ps1.
